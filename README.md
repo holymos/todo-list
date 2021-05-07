@@ -24,7 +24,7 @@ Para isso foi criada uma todo list com as funções:
 - Marcar um item na lista como completo;
 - Excluir item da lista;
 
-### :keyboard: Instalação e Execução
+## :keyboard: Instalação e Execução
 
 - Clonar o repositório
 
